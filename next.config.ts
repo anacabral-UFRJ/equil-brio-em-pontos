@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/site-equilibrio",
+  basePath: "/equil-brio-em-pontos",
   trailingSlash: true,
 };
 
